@@ -25,7 +25,7 @@ static constexpr char FRI_CONFIGURATION_CONTROLLER[] = "fri_configuration_contro
 static constexpr char FRI_STATE_BROADCASTER[] = "fri_state_broadcaster";
 
 // Controller names with default values
-static constexpr char JOINT_TRAJECTORY_CONTROLLER[] = "joint_trajectory_controller";
+static constexpr char JOINT_TRAJECTORY_CONTROLLER[] = "kuka_arm_controller";
 static constexpr char JOINT_GROUP_IMPEDANCE_CONTROLLER[] = "joint_group_impedance_controller";
 }  // namespace kuka_drivers_core
 
